@@ -1,0 +1,281 @@
+{
+    "1": {
+        "Name": "Image",
+        "Value": 1,
+        "Summary": "The asset is an image."
+    },
+    "2": {
+        "Name": "TShirt",
+        "Value": 2
+    },
+    "3": {
+        "Name": "Audio",
+        "Value": 3,
+        "Summary": "The asset is an audio clip."
+    },
+    "4": {
+        "Name": "Mesh",
+        "Value": 4,
+        "Summary": "The asset is a mesh."
+    },
+    "5": {
+        "Name": "Lua",
+        "Value": 5,
+        "Summary": "The asset is Lua code, for example a ModuleScript."
+    },
+    "8": {
+        "Name": "Hat",
+        "Value": 8,
+        "Summary": "The asset is a hat."
+    },
+    "9": {
+        "Name": "Place",
+        "Value": 9,
+        "Summary": "The asset is a place."
+    },
+    "10": {
+        "Name": "Model",
+        "Value": 10,
+        "Summary": "The asset is a model."
+    },
+    "11": {
+        "Name": "Shirt",
+        "Value": 11,
+        "Summary": "The asset is a shirt."
+    },
+    "12": {
+        "Name": "Pants",
+        "Value": 12,
+        "Summary": "The asset is a pants item."
+    },
+    "13": {
+        "Name": "Decal",
+        "Value": 13,
+        "Summary": "The asset is a decal (image)."
+    },
+    "17": {
+        "Name": "Head",
+        "Value": 17,
+        "Summary": "The asset is a head."
+    },
+    "18": {
+        "Name": "Face",
+        "Value": 18,
+        "Summary": "The asset is a face."
+    },
+    "19": {
+        "Name": "Gear",
+        "Value": 19,
+        "Summary": "The asset is a gear item."
+    },
+    "21": {
+        "Name": "Badge",
+        "Value": 21,
+        "Summary": "The asset is a badge."
+    },
+    "24": {
+        "Name": "Animation",
+        "Value": 24,
+        "Summary": "The asset is an animation; also see the more specific animation type enums below."
+    },
+    "27": {
+        "Name": "Torso",
+        "Value": 27,
+        "Summary": "The asset is a torso."
+    },
+    "28": {
+        "Name": "RightArm",
+        "Value": 28,
+        "Summary": "The asset is a right arm."
+    },
+    "29": {
+        "Name": "LeftArm",
+        "Value": 29,
+        "Summary": "The asset is a left arm."
+    },
+    "30": {
+        "Name": "LeftLeg",
+        "Value": 30,
+        "Summary": "The asset is a left leg."
+    },
+    "31": {
+        "Name": "RightLeg",
+        "Value": 31,
+        "Summary": "The asset is a right leg."
+    },
+    "32": {
+        "Name": "Package",
+        "Value": 32,
+        "Summary": "The asset is a pack, for example an animation package."
+    },
+    "34": {
+        "Name": "GamePass",
+        "Value": 34,
+        "Summary": "The asset is a GamePass."
+    },
+    "38": {
+        "Name": "Plugin",
+        "Value": 38,
+        "Summary": "The asset is a plugin."
+    },
+    "40": {
+        "Name": "MeshPart",
+        "Value": 40,
+        "Summary": "The asset is a mesh part."
+    },
+    "41": {
+        "Name": "HairAccessory",
+        "Value": 41,
+        "Summary": "The asset is a hair accessory."
+    },
+    "42": {
+        "Name": "FaceAccessory",
+        "Value": 42,
+        "Summary": "The asset is a face accessory."
+    },
+    "43": {
+        "Name": "NeckAccessory",
+        "Value": 43,
+        "Summary": "The asset is a neck accessory."
+    },
+    "44": {
+        "Name": "ShoulderAccessory",
+        "Value": 44,
+        "Summary": "The asset is a shoulder accessory."
+    },
+    "45": {
+        "Name": "FrontAccessory",
+        "Value": 45,
+        "Summary": "The asset is a front accessory."
+    },
+    "46": {
+        "Name": "BackAccessory",
+        "Value": 46,
+        "Summary": "The asset is a back accessory."
+    },
+    "47": {
+        "Name": "WaistAccessory",
+        "Value": 47,
+        "Summary": "The asset is a waist accessory."
+    },
+    "48": {
+        "Name": "ClimbAnimation",
+        "Value": 48,
+        "Summary": "The asset is a climb animation."
+    },
+    "49": {
+        "Name": "DeathAnimation",
+        "Value": 49,
+        "Summary": "The asset is a death animation."
+    },
+    "50": {
+        "Name": "FallAnimation",
+        "Value": 50,
+        "Summary": "The asset is a fall animation."
+    },
+    "51": {
+        "Name": "IdleAnimation",
+        "Value": 51,
+        "Summary": "The asset is an idle animation."
+    },
+    "52": {
+        "Name": "JumpAnimation",
+        "Value": 52,
+        "Summary": "The asset is a jump animation."
+    },
+    "53": {
+        "Name": "RunAnimation",
+        "Value": 53,
+        "Summary": "The asset is a run animation."
+    },
+    "54": {
+        "Name": "SwimAnimation",
+        "Value": 54,
+        "Summary": "The asset is a swim animation."
+    },
+    "55": {
+        "Name": "WalkAnimation",
+        "Value": 55,
+        "Summary": "The asset is a walk animation."
+    },
+    "56": {
+        "Name": "PoseAnimation",
+        "Value": 56,
+        "Summary": "The asset is a pose animation."
+    },
+    "57": {
+        "Name": "EarAccessory",
+        "Value": 57
+    },
+    "58": {
+        "Name": "EyeAccessory",
+        "Value": 58
+    },
+    "61": {
+        "Name": "EmoteAnimation",
+        "Value": 61,
+        "Summary": "The asset is an emote animation."
+    },
+    "62": {
+        "Name": "Video",
+        "Value": 62,
+        "Summary": "The asset is a video."
+    },
+    "64": {
+        "Name": "TShirtAccessory",
+        "Value": 64
+    },
+    "65": {
+        "Name": "ShirtAccessory",
+        "Value": 65
+    },
+    "66": {
+        "Name": "PantsAccessory",
+        "Value": 66
+    },
+    "67": {
+        "Name": "JacketAccessory",
+        "Value": 67
+    },
+    "68": {
+        "Name": "SweaterAccessory",
+        "Value": 68
+    },
+    "69": {
+        "Name": "ShortsAccessory",
+        "Value": 69
+    },
+    "70": {
+        "Name": "LeftShoeAccessory",
+        "Value": 70
+    },
+    "71": {
+        "Name": "RightShoeAccessory",
+        "Value": 71
+    },
+    "72": {
+        "Name": "DressSkirtAccessory",
+        "Value": 72
+    },
+    "73": {
+        "Name": "FontFamily",
+        "Value": 73
+    },
+    "76": {
+        "Name": "EyebrowAccessory",
+        "Value": 76
+    },
+    "77": {
+        "Name": "EyelashAccessory",
+        "Value": 77
+    },
+    "78": {
+        "Name": "MoodAnimation",
+        "Value": 78,
+        "Summary": "The asset is a mood animation."
+    },
+    "79": {
+        "Name": "DynamicHead",
+        "Value": 79
+    }
+}
